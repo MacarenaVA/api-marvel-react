@@ -1,0 +1,13 @@
+.card {
+  border: 2px solid #d70b0b;
+  border-radius: 10px;
+  height: min-content;
+  width: min-content;
+  margin: 5px;
+}
+.content {
+  padding: 10px;
+}
+.img {
+  border-radius: 0 0;
+}

@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #e11919;
+  padding: 30px;
+  text-align: center;
+  font-size: 100px;
+}
+.navbar h1 {
+  color: aliceblue;
+  font-weight: bolder;
+  font-family: Roboto, sans-serif;
+  font-size: 100px;
+  margin-left: 25%;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap");
